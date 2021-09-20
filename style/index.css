@@ -1,0 +1,31 @@
+
+body {
+    width: 960px;
+    margin: auto;
+}
+
+h4 {
+	text-align: left;
+    color: blue;
+    padding-left: 10px;
+}
+
+.col-3 {
+    display: inline-block;
+	width: 32.535%;
+    margin-top: 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+.color-red {
+    color: red;
+}
+.desc {
+    margin: 0 10px;
+    padding-right: 10px;
+    text-align: justify;
+    
+}
